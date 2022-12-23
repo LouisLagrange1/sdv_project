@@ -1,0 +1,16 @@
+Front :
+Nous avons choisi d'utiliser ReactJS pour le Front-End de notre site car c'est un langage que nous avons étudié en cours, et nous avons envie de l'apprendre le mieux possible.
+Pour le style de notre site, nous allons utiliser TailwindCSS qui est un Framework qui permet d'utilisé facilement le CSS dans son code.
+De plus, ReactJS un langage très important à connaitre dans le milieu du développement. 
+
+Back :
+En ce qui concerne le Back-End, nous avons choisi de partir sur NodeJS, encore une fois c'est un langage qu'on a étudié en cours et qu'on aimerait savoir utiliser.
+De plus, ce langage reste du JavaScript donc c'est en accord avec notre choix de ReactJS pour le Front.
+
+BDD : MySQL
+Sprint : ???
+Maquettes : Figma 
+
+Gestionnaire de projet : 
+Pour le gestionnaire de projet, nous avons décidé d'utilisé Trello pour détaillé les fonctions que notre si devra remplir (En tant que visiteur/utilisateur, je veux ...)
+Nous avons choisi cet outil car il est simple d'utilisation et il permet de travailler a plusieurs et simultanément.
